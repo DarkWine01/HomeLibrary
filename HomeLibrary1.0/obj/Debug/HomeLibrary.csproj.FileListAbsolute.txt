@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\HomeLibrary\bin\Debug\HomeLibrary.exe.config
+C:\Users\Student\Desktop\HomeLibrary\bin\Debug\HomeLibrary.exe
+C:\Users\Student\Desktop\HomeLibrary\bin\Debug\HomeLibrary.pdb
+C:\Users\Student\Desktop\HomeLibrary\obj\Debug\HomeLibrary.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\HomeLibrary\obj\Debug\HomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\HomeLibrary\obj\Debug\HomeLibrary.exe
+C:\Users\Student\Desktop\HomeLibrary\obj\Debug\HomeLibrary.pdb
